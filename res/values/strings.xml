@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo</string>
+    <string name="hello_world">Hello!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_send">Show image</string>
+    <string name="interact_message">You just clicked on the Button!</string>
+    <string name="button_clicked">Windows 7 logo</string>
+    <string name="button_new">New activity</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+	<string name="fileChoose_btn">Choose file</string>
+</resources>
